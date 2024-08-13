@@ -1,3 +1,3 @@
 # DataHarbor
-Data is store here.
+Data is stored here.
 Secured data...!!!
